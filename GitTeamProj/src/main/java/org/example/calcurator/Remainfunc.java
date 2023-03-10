@@ -12,6 +12,7 @@ public class Remainfunc {
 
   public int result() {
 
+    System.out.println("asd");
     return left % right;
   }
 }

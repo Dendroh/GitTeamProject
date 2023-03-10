@@ -9,6 +9,7 @@ public class Mulfunc {
     }
 
     public double result(){
+        System.out.println("result");
         return left * right;
     }
 }

@@ -1,4 +1,4 @@
 package org.example.calcurator;
 
-public class maxfunc {
+public class Subfunc {
 }

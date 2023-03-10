@@ -9,7 +9,8 @@ public class Minfunc {
     this.right = right;
   }
 
-  public int result() {
-    return left < right ? left : right;
+  public void result() {
+    int result = left < right ? left : right;
+    System.out.println("result : " + result);
   }
 }

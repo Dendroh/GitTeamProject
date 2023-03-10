@@ -16,7 +16,7 @@ class calculator{
 
     public int Divfunc(int a, int b){
         //To-Do implementation
-        return 0;
+        return a / b;
     }
 
     public int Maxfunc(int a, int b){

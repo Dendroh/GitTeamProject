@@ -10,6 +10,8 @@ public class Minfunc {
   }
 
   public int result() {
-    return left < right ? left : right;
+    int result = left < right ? left : right;
+    System.out.println("result : " + result);
+    return result;
   }
 }

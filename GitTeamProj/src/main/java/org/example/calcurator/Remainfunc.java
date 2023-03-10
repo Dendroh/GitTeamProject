@@ -1,4 +1,4 @@
 package org.example.calcurator;
 
-public class remainfunc {
+public class Remainfunc {
 }

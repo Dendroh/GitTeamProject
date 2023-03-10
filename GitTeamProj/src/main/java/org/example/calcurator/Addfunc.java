@@ -10,6 +10,7 @@ public class Addfunc {
   }
 
   public int result() {
+    System.out.println("result");
     return left + right;
   }
 }

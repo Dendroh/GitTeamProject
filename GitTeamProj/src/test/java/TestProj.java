@@ -1,5 +1,6 @@
 import org.example.calcurator.Addfunc;
 import org.example.calcurator.Mulfunc;
+import org.example.calcurator.Meanfunc;
 
 public class TestProj {
   public static void main(String[] args) {
@@ -16,5 +17,7 @@ public class TestProj {
     Mulfunc mulfunc = new Mulfunc(left, right);
     System.out.println(mulfunc.result());
 
+    Meanfunc meanfunc = new Meanfunc(left, right);
+    System.out.println(meanfunc.result());
   }
 }

@@ -8,5 +8,6 @@ public class TestProj {
     Addfunc addfunc = new Addfunc(10, 4);
     System.out.println(addfunc.result());
     System.out.println("commit test");
+    System.out.println("develop");
   }
 }

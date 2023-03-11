@@ -5,15 +5,15 @@ public class Confilct1 {
   int left;
   int right;
 
-  int center;
+int mid3;
 
-  public Confilct1(int left, int right, int center) {
+  public Confilct1(int left, int right, int mid) {
     this.left = left;
     this.right = right;
-    this.center = center;
+    this.mid3 = mid3;
   }
 
   public int result() {
-    return left + right + center;
+    return left + right + mid3;
   }
 }

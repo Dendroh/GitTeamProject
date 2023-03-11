@@ -13,7 +13,7 @@ public class Confilct3 {
   }
 
   public int result() {
-    System.out.println("result: "+ left + right + middle);
+    System.out.println("result(값): " + left + right + middle);
     return left + right + middle;
   }
 }

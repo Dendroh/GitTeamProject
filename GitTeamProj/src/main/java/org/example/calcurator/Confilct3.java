@@ -14,7 +14,7 @@ public class Confilct3 {
   }
 
   public int result() {
-    System.out.println("값: " + (left + right + middle));
+    System.out.println("이성운: " + (left + right + middle));
     return left + right + middle;
   }
 }

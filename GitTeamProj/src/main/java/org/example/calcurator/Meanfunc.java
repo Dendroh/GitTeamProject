@@ -11,6 +11,6 @@ public class Meanfunc {
 
     public double result() {
         System.out.print("mean result: ");
-        return (left + right) / 2
+        return (left + right) / 2;
     }
 }

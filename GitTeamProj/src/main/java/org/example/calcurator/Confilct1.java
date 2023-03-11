@@ -5,7 +5,7 @@ public class Confilct1 {
   int left;
   int right;
 
-  int mid3;
+int mid3;
 
   public Confilct1(int left, int right, int mid) {
     this.left = left;

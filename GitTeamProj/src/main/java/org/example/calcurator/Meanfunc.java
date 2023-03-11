@@ -7,6 +7,7 @@ public class Meanfunc {
     public Meanfunc(double left, double right) {
         this.left = left;
         this.right = right;
+        System.out.println("Enter Mean");
     }
 
     public double result() {

@@ -1,11 +1,11 @@
 package org.example.calcurator;
 
-public class Doublefunc {
+public class Confilct3 {
 
   int left;
   int right;
 
-  public Doublefunc(int left, int right) {
+  public Confilct3(int left, int right) {
     this.left = left;
     this.right = right;
   }

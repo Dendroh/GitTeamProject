@@ -5,5 +5,15 @@ a
 1src/main/java/org/example/calcurator/Addfunc.java,2/e/2ee2a018f591e20b2845f2416cd6bd76354d00ad
 K
 src/test/java/TestProj.java,5/a/5a70e35baa8bebe72ca6fa0268d7ab6470a1ae65
-e
-5src/main/java/org/example/calcurator/Tripplefunc.java,3/e/3eebd081c4fef52448a103ef98eb81a3d27d409d
+a
+1src/main/java/org/example/calcurator/Minfunc.java,2/e/2e861bf04dd31b9b1191ef0091fa62159d875fd8
+a
+1src/main/java/org/example/calcurator/Maxfunc.java,9/5/9554dea02cdf35aba0c8622c4b45fae9a3255797
+d
+4src/main/java/org/example/calcurator/Remainfunc.java,0/a/0a47d5a48bcc6a69de059d0e5b1d42e55cb82928
+b
+2src/main/java/org/example/calcurator/Meanfunc.java,3/0/30267e6ac43dfe6e151c3c0e5175cd0132b936ce
+a
+1src/main/java/org/example/calcurator/Divfunc.java,d/c/dc39a44bf8f4d866b39cb52276ac9aad17ba98df
+a
+1src/main/java/org/example/calcurator/Subfunc.java,b/7/b7f972a1a9752cc5916f1ba51c3e659f13c7a72c

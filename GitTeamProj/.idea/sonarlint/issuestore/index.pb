@@ -5,8 +5,6 @@ K
 src/test/java/TestProj.java,5/a/5a70e35baa8bebe72ca6fa0268d7ab6470a1ae65
 a
 1src/main/java/org/example/calcurator/Addfunc.java,2/e/2ee2a018f591e20b2845f2416cd6bd76354d00ad
-e
-5src/main/java/org/example/calcurator/Tripplefunc.java,3/e/3eebd081c4fef52448a103ef98eb81a3d27d409d
 a
 1src/main/java/org/example/calcurator/Minfunc.java,2/e/2e861bf04dd31b9b1191ef0091fa62159d875fd8
 d
@@ -17,13 +15,5 @@ a
 1src/main/java/org/example/calcurator/Divfunc.java,d/c/dc39a44bf8f4d866b39cb52276ac9aad17ba98df
 a
 1src/main/java/org/example/calcurator/Subfunc.java,b/7/b7f972a1a9752cc5916f1ba51c3e659f13c7a72c
-c
-3src/main/java/org/example/calcurator/Confilct1.java,3/e/3ebf05d7ec37e7fcd5f9ab491dc45bc8ce166b79
-c
-3src/main/java/org/example/calcurator/Confilct2.java,3/4/34540325e7c1eb63a46f5d1fb84606828c5ca741
-c
-3src/main/java/org/example/calcurator/Confilct3.java,8/6/865f1d97a902885d86dd25b622cc2384f79adee2
-c
-3src/main/java/org/example/calcurator/Confilct4.java,5/6/561cc61d198475033596297d3a99ad0a101f075c
 a
 1src/main/java/org/example/calcurator/Maxfunc.java,9/5/9554dea02cdf35aba0c8622c4b45fae9a3255797

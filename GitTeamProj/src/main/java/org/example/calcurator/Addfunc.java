@@ -12,7 +12,7 @@ public class Addfunc {
   public int result() {
     System.out.println("result");
     System.out.println("result2");
-    System.out.println("addtest");
+    System.out.println("addtest2");
     return left + right;
   }
 }

@@ -1,18 +1,16 @@
 package org.example.calcurator;
 
-public class Remainfunc {
+public class Confilct2 {
 
   int left;
   int right;
 
-  public Remainfunc(int left, int right) {
+  public Confilct2(int left, int right) {
     this.left = left;
     this.right = right;
   }
 
   public int result() {
-
-    System.out.println("result");
-    return left % right;
+    return left + right;
   }
 }
